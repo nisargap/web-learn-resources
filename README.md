@@ -1,18 +1,28 @@
 # Resources to learn full stack web development
 A list of resources I found useful for learning concepts
 
+## HTML
+
+### Getting Started
+- [Derek Banas Learn HTML in 15 minutes](https://www.youtube.com/watch?v=Ggh_y-33Eso)
+
 ## JavaScript
 
 ### Getting Started
 - [Derek Banas JavaScript Tutorial](https://www.youtube.com/watch?v=fju9ii8YsGs)
 - [Getting started with ES6 / ES2015](https://www.youtube.com/watch?v=2LeqilIw-28&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv)
 
----
+## Node.js
+
+### Getting Started
+- [Ryan Dahl: Original Node.js Presentation](https://www.youtube.com/watch?v=ztspvPYybIY)
+- [Node.js Tutorial Series for Beginners thenewboston](https://www.youtube.com/watch?v=-u-j7uqU7sI&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
+
+### Express framework
+- [Derek Banas Express Tutorial](https://www.youtube.com/watch?v=xDCKcNBFsuI)
 
 ## Webpack
 - [LearnCode.academy Webpack Tutorial](https://www.youtube.com/watch?v=9kJVYpOqcVU)
-
----
 
 ## React
 
